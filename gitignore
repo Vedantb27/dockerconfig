@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# npm package lock files (if not needed for version control)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# IDE files (VS Code, etc.)
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
